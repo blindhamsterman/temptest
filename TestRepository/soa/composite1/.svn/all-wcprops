@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TestRepository/!svn/ver/50/trunk/soa/composite1
+END
+composite.xml.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TestRepository/!svn/ver/43/trunk/soa/composite1/composite.xml.txt
+END
+abpel.bpel.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TestRepository/!svn/ver/50/trunk/soa/composite1/abpel.bpel.txt
+END
